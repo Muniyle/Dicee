@@ -1,1 +1,1 @@
-readme for my dice app
+read me fro my dicee

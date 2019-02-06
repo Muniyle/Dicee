@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		941A05C4220B8308009B1657 /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 941A05C3220B8308009B1657 /* readme.md */; };
+		941A05C6220B881E009B1657 /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 941A05C5220B881E009B1657 /* readme.md */; };
 		941B9041220A417F00DDED1D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 941B9040220A417F00DDED1D /* AppDelegate.swift */; };
 		941B9043220A417F00DDED1D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 941B9042220A417F00DDED1D /* ViewController.swift */; };
 		941B9046220A417F00DDED1D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 941B9044220A417F00DDED1D /* Main.storyboard */; };
@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		941A05C3220B8308009B1657 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+		941A05C5220B881E009B1657 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 		941B903D220A417F00DDED1D /* Dicee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dicee.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		941B9040220A417F00DDED1D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		941B9042220A417F00DDED1D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		941B9034220A417F00DDED1D = {
 			isa = PBXGroup;
 			children = (
-				941A05C3220B8308009B1657 /* readme.md */,
+				941A05C5220B881E009B1657 /* readme.md */,
 				941B903F220A417F00DDED1D /* Dicee */,
 				941B903E220A417F00DDED1D /* Products */,
 			);
@@ -127,7 +127,7 @@
 			files = (
 				941B904B220A418000DDED1D /* LaunchScreen.storyboard in Resources */,
 				941B9048220A418000DDED1D /* Assets.xcassets in Resources */,
-				941A05C4220B8308009B1657 /* readme.md in Resources */,
+				941A05C6220B881E009B1657 /* readme.md in Resources */,
 				941B9046220A417F00DDED1D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
